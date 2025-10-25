@@ -19,8 +19,8 @@ Los ejercicios están organizados en módulos, cada uno centrado en un aspecto c
 | Módulo | Estado | Conceptos principales |
 |---------|---------|-----------------------|
 | Introduction | ✅ Completado | Sintaxis básica, funciones, null safety |
-| Classes | 🔄 En progreso | Constructores, propiedades, herencia |
-| Conventions | ⏳ Próximamente | Operadores, rangos, comparaciones |
+| Classes | ✅ Completado | Constructores, propiedades, herencia |
+| Conventions | 🔄 En progreso | Operadores, rangos, comparaciones |
 | Collections | ⏳ Próximamente | Map, Filter, Lambdas |
 | Properties | ⏳ Próximamente | Getters, setters y propiedades delegadas |
 | Builders | ⏳ Próximamente | DSLs y funciones lambda con receptor |
